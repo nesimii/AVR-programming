@@ -1,9 +1,9 @@
 /*
-* GccApplication1.c
-*
-* Created: 30/03/2024 22:15:46
-* Author : Nesimi
-*/
+ * main.c
+ *
+ * Created: 1/22/2025 11:48:57 PM
+ *  Author: Nesimi
+ */
 
 #ifndef F_CPU
 #define F_CPU 16000000UL
