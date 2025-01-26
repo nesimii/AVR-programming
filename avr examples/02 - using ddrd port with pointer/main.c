@@ -1,9 +1,9 @@
 /*
- * main.c
- *
- * Created: 1/22/2025 11:51:20 PM
- *  Author: Nesimi
- */
+* main.c
+*
+* Created: 1/22/2025 11:51:20 PM
+*  Author: Nesimi
+*/
 
 #ifndef F_CPU
 #define F_CPU 16000000UL
