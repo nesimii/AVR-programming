@@ -9,6 +9,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "02 - using ddrd port with p
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "03 - variables storing addresses", "03 - address holding variables\03 - variables storing addresses.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "04 - void pointer", "04 - void pointer\04 - void pointer.cproj", "{9833E9FC-4F05-4CA6-A894-0096451F0DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -27,6 +29,10 @@ Global
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
 		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{9833E9FC-4F05-4CA6-A894-0096451F0DE6}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9833E9FC-4F05-4CA6-A894-0096451F0DE6}.Debug|AVR.Build.0 = Debug|AVR
+		{9833E9FC-4F05-4CA6-A894-0096451F0DE6}.Release|AVR.ActiveCfg = Release|AVR
+		{9833E9FC-4F05-4CA6-A894-0096451F0DE6}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
